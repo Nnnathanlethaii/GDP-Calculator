@@ -1,3 +1,4 @@
+//demo is here
 function gdpCalc(c,i,g,nx){
         const gdp = c+i+g+nx;
         console.log(`Total GDP: $(gdp)`)
